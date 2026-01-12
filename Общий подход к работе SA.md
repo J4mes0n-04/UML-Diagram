@@ -1,4 +1,4 @@
-## Общий подход к работе SA
+## UML 
 
 ```mermaid
 flowchart TD
